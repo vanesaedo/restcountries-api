@@ -27,3 +27,6 @@ El resultado final debería ser algo como esto:
 ## Bonus 🎁
 
 4 - Crear un filtro que permita al usuario seleccionar solo países del mismo continente, para esta iteración no hay elementos ni parte de código ya hecho, todo depende de ti 😜
+
+
+
